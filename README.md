@@ -1,7 +1,6 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Avada Driving School
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Su questo sito potrai conoscere la nostra scuola di guida Avada. Con staff professionale e altamente qualificato, potrai migliorare la tua guida e renderla sicura con noi.
+Sito realizzato con framework VueJs, per rendere l'esperienza dell'utente più dinamica e intuitiva
+![1704204235685](https://github.com/AlessioMontebello90/Avada-driving-school/assets/134722770/ef58d638-b433-44a6-acb8-be486e2befbf)
